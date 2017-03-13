@@ -2,7 +2,7 @@
   "name": "njssocketpair",
   "version": "0.0.1",
   "author": "Max Gotlib <mgotlib@exadel.com>",
-  "description": "Pure JS implementation od socketpair() for for Node.js",
+  "description": "Pure JS implementation of socketpair() for for Node.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/max-gotlib/njssocketpair.git"
